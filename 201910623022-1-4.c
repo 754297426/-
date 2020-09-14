@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	printf("上海海事大学欢迎您/n");
+	printf("Welcome to Shanghai Maritime University\n");
 	return 0;
 }
